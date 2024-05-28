@@ -24,4 +24,4 @@ SELECT * FROM TABLE 1
 WHERE CONDITION = MET
 
 ```
-![](IMG_5444.jpeg)
+![](1.png)
