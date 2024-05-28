@@ -7,7 +7,7 @@ insight to make informed conclusions on sales.
 ## Data Sources
 The primary source of data used here is data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle.com
 
-## Tools USed
+## Tools Used
 - MS Excel
 - Microsoft Power BI [https://powerbi.microsoft.com/en-us/downloads/]
 - Python
