@@ -25,3 +25,8 @@ WHERE CONDITION = MET
 
 ```
 ![](1.png)
+
+## Table
+| Heading 1 | Heading 2 | Heading 3 |
+|---|---|---|
+| John | Onwuka | Data Scientist |
