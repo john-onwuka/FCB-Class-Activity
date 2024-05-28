@@ -17,6 +17,8 @@ The primary source of data used here is dataSale.csv and this is an open source 
 - SQL
 
 ```
+
+![](IMG_5444.jpg)
 Google Query Sheet
 
 SELECT * FROM TABLE 1
